@@ -1,2 +1,2 @@
 # Manuela_bikeshare
-01_Udacity_Python_project
+01_Python_project
